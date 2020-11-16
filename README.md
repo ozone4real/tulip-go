@@ -1,2 +1,2 @@
 # tulip-go
-WIP - Wrapper for the Tulip indicators technical analysis  library for Golang
+WIP - Golang wrapper for the [Tulip indicators](https://github.com/TulipCharts/tulipindicators) technical analysis library
